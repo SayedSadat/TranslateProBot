@@ -38,6 +38,7 @@ if lang == 'EN' then
 			},
 			{
 				{text = "🇦🇲Armenia", callback_data = '/am'},
+				{text = "🇳🇱Dutch", callback_data = '/du'},
 			},
 			{
 			    {text = "🇦🇿Azerbaijani", callback_data = '/az'},
@@ -81,6 +82,7 @@ elseif lang == 'FA' then
 			},
 			{
 				{text = "ارمنی🇦🇲", callback_data = '/am'},
+				{text = "🇳🇱هلندی", callback_data = '/du'},
 			},
 			{
 				{text = "آذربایجانی🇦🇿", callback_data = '/az'},
@@ -124,6 +126,7 @@ elseif lang == 'AR' then
 			},
 			{
 				{text = "🇦🇲أرمينيا", callback_data = '/am'},
+				{text = "🇳🇱الهولندي", callback_data = '/du'},
 			},
 			{
 			    {text = "🇦🇿أذربيجان", callback_data = '/az'},
