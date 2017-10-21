@@ -42,10 +42,10 @@ if lang == 'EN' then
 			},
 			{
 			    {text = "🇦🇿Azerbaijani", callback_data = '/az'},
-				{text = "Rate 5 star now⭐️", url = 'https://telegram.me/storebot?start=TranslateProBot'},
+				{text = "Rate 5 star now⭐️", url = 'https://telegram.me/storebot?start=AFTranslatebot'},
 			},
 			{
-			    {text = "😉Join Channel", url = 'https://telegram.me/BeyondTeam'},
+			    {text = "😉Join Channel", url = 'https://telegram.me/AFBoTS'},
 				{text = "🔙Exit", callback_data = '/exit'},
 	    	},
     	}
@@ -86,10 +86,10 @@ elseif lang == 'FA' then
 			},
 			{
 				{text = "آذربایجانی🇦🇿", callback_data = '/az'},
-				{text = "همین حالا 5 ستاره به من بده⭐️", url = 'https://telegram.me/storebot?start=TranslateProBot'},
+				{text = "همین حالا 5 ستاره به من بده⭐️", url = 'https://telegram.me/storebot?start=AFTranslatebot'},
 			},
 			{
-				{text = "😉ورود به کانال", url = 'https://telegram.me/BeyondTeam'},
+				{text = "😉ورود به کانال", url = 'https://telegram.me/AFBoTS'},
 				{text = "خروج🔙", callback_data = '/exit'},
 	    	},
     	}
@@ -130,10 +130,10 @@ elseif lang == 'AR' then
 			},
 			{
 			    {text = "🇦🇿أذربيجان", callback_data = '/az'},
-				{text = "معدل 5 نجوم الآن⭐️", url = 'https://telegram.me/storebot?start=TranslateProBot'},
+				{text = "معدل 5 نجوم الآن⭐️", url = 'https://telegram.me/storebot?start=AFTranslatebot'},
 			},
 			{
-			    {text = "😉الانضمام إلى قناة", url = 'https://telegram.me/BeyondTeam'},
+			    {text = "😉الانضمام إلى قناة", url = 'https://telegram.me/AFBoTS'},
 				{text = "🔙خروج", callback_data = '/exit'},
 	    	},
     	}
